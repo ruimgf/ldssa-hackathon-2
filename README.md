@@ -1,1 +1,2 @@
-# ldssa-hackathon-2
+# Hackathon #2 - Time Series - LDSSA
+
