@@ -1,0 +1,1233 @@
+Date,City,nr_doctors
+2018-05-20,Abrantes,0
+2018-05-20,Aguiar da Beira,0
+2018-05-20,Alandroal,0
+2018-05-20,Albergaria-a-Velha,0
+2018-05-20,Albufeira,0
+2018-05-20,Alcanena,0
+2018-05-20,Alcobaça,0
+2018-05-20,Alcochete,0
+2018-05-20,Alcoutim,0
+2018-05-20,Alcácer do Sal,0
+2018-05-20,Alenquer,0
+2018-05-20,Alfândega da Fé,0
+2018-05-20,Alijó,0
+2018-05-20,Aljezur,0
+2018-05-20,Aljustrel,0
+2018-05-20,Almada,0
+2018-05-20,Almeida,0
+2018-05-20,Almeirim,0
+2018-05-20,Almodôvar,0
+2018-05-20,Alpiarça,0
+2018-05-20,Alter do Chão,0
+2018-05-20,Alvaiázere,0
+2018-05-20,Alvito,0
+2018-05-20,Amadora,124
+2018-05-20,Amarante,0
+2018-05-20,Amares,0
+2018-05-20,Anadia,0
+2018-05-20,Angra do Heroísmo,0
+2018-05-20,Ansião,0
+2018-05-20,Arcos de Valdevez,0
+2018-05-20,Arganil,0
+2018-05-20,Armamar,0
+2018-05-20,Arouca,0
+2018-05-20,Arraiolos,0
+2018-05-20,Arronches,0
+2018-05-20,Arruda dos Vinhos,91
+2018-05-20,Aveiro,0
+2018-05-20,Avis,0
+2018-05-20,Azambuja,0
+2018-05-20,Baião,0
+2018-05-20,Barcelos,0
+2018-05-20,Barrancos,0
+2018-05-20,Barreiro,0
+2018-05-20,Batalha,0
+2018-05-20,Beja,0
+2018-05-20,Belmonte,0
+2018-05-20,Benavente,0
+2018-05-20,Bombarral,58
+2018-05-20,Borba,0
+2018-05-20,Boticas,0
+2018-05-20,Braga,0
+2018-05-20,Bragança,0
+2018-05-20,Cabeceiras de Basto,0
+2018-05-20,Cadaval,0
+2018-05-20,Caldas da Rainha,0
+2018-05-20,Calheta [R.A.A.],0
+2018-05-20,Calheta [R.A.M.],0
+2018-05-20,Caminha,0
+2018-05-20,Campo Maior,0
+2018-05-20,Cantanhede,107
+2018-05-20,Carrazeda de Ansiães,0
+2018-05-20,Carregal do Sal,0
+2018-05-20,Cartaxo,0
+2018-05-20,Cascais,154
+2018-05-20,Castanheira de Pêra,0
+2018-05-20,Castelo Branco,0
+2018-05-20,Castelo de Paiva,0
+2018-05-20,Castelo de Vide,0
+2018-05-20,Castro Daire,0
+2018-05-20,Castro Marim,0
+2018-05-20,Castro Verde,0
+2018-05-20,Celorico da Beira,0
+2018-05-20,Celorico de Basto,0
+2018-05-20,Chamusca,0
+2018-05-20,Chaves,0
+2018-05-20,Cinfães,0
+2018-05-20,Coimbra,0
+2018-05-20,Condeixa-a-Nova,0
+2018-05-20,Constância,41
+2018-05-20,Coruche,0
+2018-05-20,Corvo,0
+2018-05-20,Covilhã,0
+2018-05-20,Crato,0
+2018-05-20,Cuba,0
+2018-05-20,Câmara de Lobos,0
+2018-05-20,Elvas,0
+2018-05-20,Entroncamento,0
+2018-05-20,Espinho,0
+2018-05-20,Esposende,0
+2018-05-20,Estarreja,0
+2018-05-20,Estremoz,0
+2018-05-20,Fafe,0
+2018-05-20,Faro,0
+2018-05-20,Felgueiras,0
+2018-05-20,Ferreira do Alentejo,0
+2018-05-20,Ferreira do Zêzere,0
+2018-05-20,Figueira da Foz,0
+2018-05-20,Figueira de Castelo Rodrigo,0
+2018-05-20,Figueiró dos Vinhos,0
+2018-05-20,Fornos de Algodres,0
+2018-05-20,Freixo de Espada à Cinta,0
+2018-05-20,Fronteira,0
+2018-05-20,Funchal,0
+2018-05-20,Fundão,0
+2018-05-20,Gavião,0
+2018-05-20,Golegã,0
+2018-05-20,Gondomar,0
+2018-05-20,Gouveia,0
+2018-05-20,Grândola,0
+2018-05-20,Guarda,0
+2018-05-20,Guimarães,107
+2018-05-20,Góis,0
+2018-05-20,Horta,0
+2018-05-20,Idanha-a-Nova,0
+2018-05-20,Lagoa,0
+2018-05-20,Lagoa [R.A.A.],0
+2018-05-20,Lagos,0
+2018-05-20,Lajes das Flores,0
+2018-05-20,Lajes do Pico,0
+2018-05-20,Lamego,0
+2018-05-20,Leiria,0
+2018-05-20,Lisboa,0
+2018-05-20,Loulé,0
+2018-05-20,Loures,0
+2018-05-20,Lourinhã,0
+2018-05-20,Lousada,0
+2018-05-20,Lousã,0
+2018-05-20,Macedo de Cavaleiros,0
+2018-05-20,Machico,0
+2018-05-20,Madalena,0
+2018-05-20,Mafra,0
+2018-05-20,Maia,0
+2018-05-20,Mangualde,0
+2018-05-20,Manteigas,0
+2018-05-20,Marco de Canaveses,0
+2018-05-20,Marinha Grande,0
+2018-05-20,Marvão,0
+2018-05-20,Matosinhos,0
+2018-05-20,Mação,0
+2018-05-20,Mealhada,0
+2018-05-20,Melgaço,0
+2018-05-20,Mesão Frio,0
+2018-05-20,Mira,0
+2018-05-20,Miranda do Corvo,0
+2018-05-20,Miranda do Douro,0
+2018-05-20,Mirandela,0
+2018-05-20,Mogadouro,0
+2018-05-20,Moimenta da Beira,0
+2018-05-20,Moita,0
+2018-05-20,Monchique,0
+2018-05-20,Mondim de Basto,0
+2018-05-20,Monforte,0
+2018-05-20,Montalegre,0
+2018-05-20,Montemor-o-Novo,0
+2018-05-20,Montemor-o-Velho,0
+2018-05-20,Montijo,0
+2018-05-20,Monção,0
+2018-05-20,Mora,0
+2018-05-20,Mortágua,0
+2018-05-20,Moura,0
+2018-05-20,Mourão,0
+2018-05-20,Murtosa,0
+2018-05-20,Murça,0
+2018-05-20,Mértola,0
+2018-05-20,Mêda,0
+2018-05-20,Nazaré,0
+2018-05-20,Nelas,0
+2018-05-20,Nisa,0
+2018-05-20,Nordeste,0
+2018-05-20,Odemira,0
+2018-05-20,Odivelas,0
+2018-05-20,Oeiras,0
+2018-05-20,Oleiros,0
+2018-05-20,Olhão,0
+2018-05-20,Oliveira de Azeméis,0
+2018-05-20,Oliveira de Frades,0
+2018-05-20,Oliveira do Bairro,0
+2018-05-20,Oliveira do Hospital,0
+2018-05-20,Ourique,0
+2018-05-20,Ourém,0
+2018-05-20,Ovar,0
+2018-05-20,Palmela,0
+2018-05-20,Pampilhosa da Serra,0
+2018-05-20,Paredes,0
+2018-05-20,Paredes de Coura,0
+2018-05-20,Paços de Ferreira,0
+2018-05-20,Pedrógão Grande,0
+2018-05-20,Penacova,0
+2018-05-20,Penafiel,0
+2018-05-20,Penalva do Castelo,0
+2018-05-20,Penamacor,0
+2018-05-20,Penedono,0
+2018-05-20,Penela,0
+2018-05-20,Peniche,0
+2018-05-20,Peso da Régua,0
+2018-05-20,Pinhel,0
+2018-05-20,Pombal,0
+2018-05-20,Ponta Delgada,0
+2018-05-20,Ponta do Sol,0
+2018-05-20,Ponte da Barca,0
+2018-05-20,Ponte de Lima,0
+2018-05-20,Ponte de Sor,0
+2018-05-20,Portalegre,0
+2018-05-20,Portel,0
+2018-05-20,Portimão,0
+2018-05-20,Porto,0
+2018-05-20,Porto Moniz,0
+2018-05-20,Porto Santo,0
+2018-05-20,Porto de Mós,0
+2018-05-20,Povoação,0
+2018-05-20,Proença-a-Nova,0
+2018-05-20,Póvoa de Lanhoso,0
+2018-05-20,Póvoa de Varzim,0
+2018-05-20,Redondo,0
+2018-05-20,Reguengos de Monsaraz,0
+2018-05-20,Resende,73
+2018-05-20,Ribeira Brava,0
+2018-05-20,Ribeira Grande,0
+2018-05-20,Ribeira de Pena,0
+2018-05-20,Rio Maior,0
+2018-05-20,Sabrosa,0
+2018-05-20,Sabugal,0
+2018-05-20,Salvaterra de Magos,107
+2018-05-20,Santa Comba Dão,0
+2018-05-20,Santa Cruz,95
+2018-05-20,Santa Cruz da Graciosa,0
+2018-05-20,Santa Cruz das Flores,0
+2018-05-20,Santa Maria da Feira,0
+2018-05-20,Santa Marta de Penaguião,0
+2018-05-20,Santana,0
+2018-05-20,Santarém,0
+2018-05-20,Santiago do Cacém,0
+2018-05-20,Santo Tirso,84
+2018-05-20,Sardoal,0
+2018-05-20,Seia,0
+2018-05-20,Seixal,0
+2018-05-20,Sernancelhe,0
+2018-05-20,Serpa,0
+2018-05-20,Sertã,0
+2018-05-20,Sesimbra,0
+2018-05-20,Setúbal,0
+2018-05-20,Sever do Vouga,0
+2018-05-20,Silves,0
+2018-05-20,Sines,0
+2018-05-20,Sintra,0
+2018-05-20,Sobral de Monte Agraço,0
+2018-05-20,Soure,0
+2018-05-20,Sousel,0
+2018-05-20,Sátão,0
+2018-05-20,São Brás de Alportel,0
+2018-05-20,São João da Madeira,0
+2018-05-20,São João da Pesqueira,0
+2018-05-20,São Pedro do Sul,0
+2018-05-20,São Roque do Pico,0
+2018-05-20,São Vicente,0
+2018-05-20,Tabuaço,0
+2018-05-20,Tarouca,0
+2018-05-20,Tavira,0
+2018-05-20,Terras de Bouro,0
+2018-05-20,Tomar,0
+2018-05-20,Tondela,0
+2018-05-20,Torre de Moncorvo,0
+2018-05-20,Torres Novas,0
+2018-05-20,Torres Vedras,0
+2018-05-20,Trancoso,0
+2018-05-20,Trofa,0
+2018-05-20,Tábua,0
+2018-05-20,Vagos,0
+2018-05-20,Vale de Cambra,0
+2018-05-20,Valença,0
+2018-05-20,Valongo,0
+2018-05-20,Valpaços,0
+2018-05-20,Velas,0
+2018-05-20,Vendas Novas,0
+2018-05-20,Viana do Alentejo,0
+2018-05-20,Viana do Castelo,0
+2018-05-20,Vidigueira,0
+2018-05-20,Vieira do Minho,0
+2018-05-20,Vila Flor,0
+2018-05-20,Vila Franca de Xira,0
+2018-05-20,Vila Franca do Campo,0
+2018-05-20,Vila Nova da Barquinha,0
+2018-05-20,Vila Nova de Cerveira,0
+2018-05-20,Vila Nova de Famalicão,0
+2018-05-20,Vila Nova de Foz Côa,0
+2018-05-20,Vila Nova de Gaia,0
+2018-05-20,Vila Nova de Paiva,0
+2018-05-20,Vila Nova de Poiares,0
+2018-05-20,Vila Pouca de Aguiar,0
+2018-05-20,Vila Real,0
+2018-05-20,Vila Real de Santo António,0
+2018-05-20,Vila Velha de Ródão,0
+2018-05-20,Vila Verde,0
+2018-05-20,Vila Viçosa,0
+2018-05-20,Vila da Praia da Vitória,0
+2018-05-20,Vila de Rei,0
+2018-05-20,Vila do Bispo,0
+2018-05-20,Vila do Conde,0
+2018-05-20,Vila do Porto,0
+2018-05-20,Vimioso,0
+2018-05-20,Vinhais,0
+2018-05-20,Viseu,86
+2018-05-20,Vizela,0
+2018-05-20,Vouzela,0
+2018-05-20,Águeda,0
+2018-05-20,Évora,0
+2018-05-20,Ílhavo,0
+2018-05-20,Óbidos,0
+2018-05-21,Abrantes,75
+2018-05-21,Aguiar da Beira,43
+2018-05-21,Alandroal,51
+2018-05-21,Albergaria-a-Velha,63
+2018-05-21,Albufeira,80
+2018-05-21,Alcanena,61
+2018-05-21,Alcobaça,73
+2018-05-21,Alcochete,62
+2018-05-21,Alcoutim,29
+2018-05-21,Alcácer do Sal,59
+2018-05-21,Alenquer,70
+2018-05-21,Alfândega da Fé,43
+2018-05-21,Alijó,58
+2018-05-21,Aljezur,44
+2018-05-21,Aljustrel,51
+2018-05-21,Almada,132
+2018-05-21,Almeida,46
+2018-05-21,Almeirim,66
+2018-05-21,Almodôvar,54
+2018-05-21,Alpiarça,51
+2018-05-21,Alter do Chão,39
+2018-05-21,Alvaiázere,48
+2018-05-21,Alvito,39
+2018-05-21,Amadora,124
+2018-05-21,Amarante,88
+2018-05-21,Amares,62
+2018-05-21,Anadia,75
+2018-05-21,Angra do Heroísmo,75
+2018-05-21,Ansião,58
+2018-05-21,Arcos de Valdevez,66
+2018-05-21,Arganil,60
+2018-05-21,Armamar,41
+2018-05-21,Arouca,68
+2018-05-21,Arraiolos,45
+2018-05-21,Arronches,35
+2018-05-21,Arruda dos Vinhos,91
+2018-05-21,Aveiro,89
+2018-05-21,Avis,39
+2018-05-21,Azambuja,63
+2018-05-21,Baião,67
+2018-05-21,Barcelos,105
+2018-05-21,Barrancos,31
+2018-05-21,Barreiro,91
+2018-05-21,Batalha,60
+2018-05-21,Beja,79
+2018-05-21,Belmonte,50
+2018-05-21,Benavente,71
+2018-05-21,Bombarral,58
+2018-05-21,Borba,50
+2018-05-21,Boticas,52
+2018-05-21,Braga,131
+2018-05-21,Bragança,69
+2018-05-21,Cabeceiras de Basto,56
+2018-05-21,Cadaval,92
+2018-05-21,Caldas da Rainha,84
+2018-05-21,Calheta [R.A.A.],36
+2018-05-21,Calheta [R.A.M.],57
+2018-05-21,Caminha,66
+2018-05-21,Campo Maior,54
+2018-05-21,Cantanhede,107
+2018-05-21,Carrazeda de Ansiães,47
+2018-05-21,Carregal do Sal,49
+2018-05-21,Cartaxo,70
+2018-05-21,Cascais,154
+2018-05-21,Castanheira de Pêra,35
+2018-05-21,Castelo Branco,87
+2018-05-21,Castelo de Paiva,67
+2018-05-21,Castelo de Vide,43
+2018-05-21,Castro Daire,68
+2018-05-21,Castro Marim,45
+2018-05-21,Castro Verde,49
+2018-05-21,Celorico da Beira,46
+2018-05-21,Celorico de Basto,64
+2018-05-21,Chamusca,53
+2018-05-21,Chaves,70
+2018-05-21,Cinfães,65
+2018-05-21,Coimbra,101
+2018-05-21,Condeixa-a-Nova,62
+2018-05-21,Constância,41
+2018-05-21,Coruche,56
+2018-05-21,Corvo,24
+2018-05-21,Covilhã,78
+2018-05-21,Crato,49
+2018-05-21,Cuba,41
+2018-05-21,Câmara de Lobos,69
+2018-05-21,Elvas,64
+2018-05-21,Entroncamento,68
+2018-05-21,Espinho,73
+2018-05-21,Esposende,74
+2018-05-21,Estarreja,70
+2018-05-21,Estremoz,67
+2018-05-21,Fafe,70
+2018-05-21,Faro,89
+2018-05-21,Felgueiras,82
+2018-05-21,Ferreira do Alentejo,44
+2018-05-21,Ferreira do Zêzere,51
+2018-05-21,Figueira da Foz,81
+2018-05-21,Figueira de Castelo Rodrigo,48
+2018-05-21,Figueiró dos Vinhos,48
+2018-05-21,Fornos de Algodres,44
+2018-05-21,Freixo de Espada à Cinta,36
+2018-05-21,Fronteira,42
+2018-05-21,Funchal,89
+2018-05-21,Fundão,66
+2018-05-21,Gavião,40
+2018-05-21,Golegã,43
+2018-05-21,Gondomar,104
+2018-05-21,Gouveia,49
+2018-05-21,Grândola,58
+2018-05-21,Guarda,90
+2018-05-21,Guimarães,107
+2018-05-21,Góis,40
+2018-05-21,Horta,52
+2018-05-21,Idanha-a-Nova,59
+2018-05-21,Lagoa,68
+2018-05-21,Lagoa [R.A.A.],60
+2018-05-21,Lagos,72
+2018-05-21,Lajes das Flores,31
+2018-05-21,Lajes do Pico,46
+2018-05-21,Lamego,69
+2018-05-21,Leiria,101
+2018-05-21,Lisboa,262
+2018-05-21,Loulé,85
+2018-05-21,Loures,134
+2018-05-21,Lourinhã,69
+2018-05-21,Lousada,73
+2018-05-21,Lousã,62
+2018-05-21,Macedo de Cavaleiros,62
+2018-05-21,Machico,64
+2018-05-21,Madalena,42
+2018-05-21,Mafra,88
+2018-05-21,Maia,84
+2018-05-21,Mangualde,63
+2018-05-21,Manteigas,43
+2018-05-21,Marco de Canaveses,79
+2018-05-21,Marinha Grande,72
+2018-05-21,Marvão,57
+2018-05-21,Matosinhos,135
+2018-05-21,Mação,51
+2018-05-21,Mealhada,58
+2018-05-21,Melgaço,55
+2018-05-21,Mesão Frio,43
+2018-05-21,Mira,53
+2018-05-21,Miranda do Corvo,49
+2018-05-21,Miranda do Douro,50
+2018-05-21,Mirandela,65
+2018-05-21,Mogadouro,56
+2018-05-21,Moimenta da Beira,57
+2018-05-21,Moita,88
+2018-05-21,Monchique,53
+2018-05-21,Mondim de Basto,55
+2018-05-21,Monforte,38
+2018-05-21,Montalegre,52
+2018-05-21,Montemor-o-Novo,59
+2018-05-21,Montemor-o-Velho,61
+2018-05-21,Montijo,66
+2018-05-21,Monção,57
+2018-05-21,Mora,37
+2018-05-21,Mortágua,50
+2018-05-21,Moura,66
+2018-05-21,Mourão,32
+2018-05-21,Murtosa,51
+2018-05-21,Murça,43
+2018-05-21,Mértola,47
+2018-05-21,Mêda,50
+2018-05-21,Nazaré,63
+2018-05-21,Nelas,53
+2018-05-21,Nisa,54
+2018-05-21,Nordeste,43
+2018-05-21,Odemira,79
+2018-05-21,Odivelas,143
+2018-05-21,Oeiras,116
+2018-05-21,Oleiros,42
+2018-05-21,Olhão,83
+2018-05-21,Oliveira de Azeméis,85
+2018-05-21,Oliveira de Frades,49
+2018-05-21,Oliveira do Bairro,65
+2018-05-21,Oliveira do Hospital,13
+2018-05-21,Ourique,38
+2018-05-21,Ourém,75
+2018-05-21,Ovar,82
+2018-05-21,Palmela,81
+2018-05-21,Pampilhosa da Serra,37
+2018-05-21,Paredes,84
+2018-05-21,Paredes de Coura,55
+2018-05-21,Paços de Ferreira,99
+2018-05-21,Pedrógão Grande,41
+2018-05-21,Penacova,59
+2018-05-21,Penafiel,95
+2018-05-21,Penalva do Castelo,50
+2018-05-21,Penamacor,47
+2018-05-21,Penedono,37
+2018-05-21,Penela,51
+2018-05-21,Peniche,86
+2018-05-21,Peso da Régua,77
+2018-05-21,Pinhel,53
+2018-05-21,Pombal,76
+2018-05-21,Ponta Delgada,85
+2018-05-21,Ponta do Sol,51
+2018-05-21,Ponte da Barca,70
+2018-05-21,Ponte de Lima,70
+2018-05-21,Ponte de Sor,61
+2018-05-21,Portalegre,67
+2018-05-21,Portel,43
+2018-05-21,Portimão,86
+2018-05-21,Porto,165
+2018-05-21,Porto Moniz,28
+2018-05-21,Porto Santo,46
+2018-05-21,Porto de Mós,78
+2018-05-21,Povoação,53
+2018-05-21,Proença-a-Nova,49
+2018-05-21,Póvoa de Lanhoso,64
+2018-05-21,Póvoa de Varzim,92
+2018-05-21,Redondo,52
+2018-05-21,Reguengos de Monsaraz,54
+2018-05-21,Resende,73
+2018-05-21,Ribeira Brava,46
+2018-05-21,Ribeira Grande,62
+2018-05-21,Ribeira de Pena,43
+2018-05-21,Rio Maior,65
+2018-05-21,Sabrosa,43
+2018-05-21,Sabugal,55
+2018-05-21,Salvaterra de Magos,107
+2018-05-21,Santa Comba Dão,56
+2018-05-21,Santa Cruz,95
+2018-05-21,Santa Cruz da Graciosa,38
+2018-05-21,Santa Cruz das Flores,39
+2018-05-21,Santa Maria da Feira,97
+2018-05-21,Santa Marta de Penaguião,47
+2018-05-21,Santana,46
+2018-05-21,Santarém,84
+2018-05-21,Santiago do Cacém,70
+2018-05-21,Santo Tirso,84
+2018-05-21,Sardoal,37
+2018-05-21,Seia,83
+2018-05-21,Seixal,110
+2018-05-21,Sernancelhe,51
+2018-05-21,Serpa,81
+2018-05-21,Sertã,56
+2018-05-21,Sesimbra,92
+2018-05-21,Setúbal,100
+2018-05-21,Sever do Vouga,54
+2018-05-21,Silves,74
+2018-05-21,Sines,56
+2018-05-21,Sintra,172
+2018-05-21,Sobral de Monte Agraço,50
+2018-05-21,Soure,79
+2018-05-21,Sousel,49
+2018-05-21,Sátão,57
+2018-05-21,São Brás de Alportel,49
+2018-05-21,São João da Madeira,62
+2018-05-21,São João da Pesqueira,48
+2018-05-21,São Pedro do Sul,61
+2018-05-21,São Roque do Pico,32
+2018-05-21,São Vicente,47
+2018-05-21,Tabuaço,43
+2018-05-21,Tarouca,60
+2018-05-21,Tavira,63
+2018-05-21,Terras de Bouro,47
+2018-05-21,Tomar,68
+2018-05-21,Tondela,72
+2018-05-21,Torre de Moncorvo,54
+2018-05-21,Torres Novas,77
+2018-05-21,Torres Vedras,96
+2018-05-21,Trancoso,48
+2018-05-21,Trofa,65
+2018-05-21,Tábua,57
+2018-05-21,Vagos,60
+2018-05-21,Vale de Cambra,61
+2018-05-21,Valença,61
+2018-05-21,Valongo,101
+2018-05-21,Valpaços,69
+2018-05-21,Velas,40
+2018-05-21,Vendas Novas,55
+2018-05-21,Viana do Alentejo,50
+2018-05-21,Viana do Castelo,92
+2018-05-21,Vidigueira,45
+2018-05-21,Vieira do Minho,57
+2018-05-21,Vila Flor,55
+2018-05-21,Vila Franca de Xira,104
+2018-05-21,Vila Franca do Campo,55
+2018-05-21,Vila Nova da Barquinha,44
+2018-05-21,Vila Nova de Cerveira,48
+2018-05-21,Vila Nova de Famalicão,90
+2018-05-21,Vila Nova de Foz Côa,45
+2018-05-21,Vila Nova de Gaia,156
+2018-05-21,Vila Nova de Paiva,49
+2018-05-21,Vila Nova de Poiares,44
+2018-05-21,Vila Pouca de Aguiar,57
+2018-05-21,Vila Real,81
+2018-05-21,Vila Real de Santo António,56
+2018-05-21,Vila Velha de Ródão,37
+2018-05-21,Vila Verde,70
+2018-05-21,Vila Viçosa,67
+2018-05-21,Vila da Praia da Vitória,68
+2018-05-21,Vila de Rei,41
+2018-05-21,Vila do Bispo,48
+2018-05-21,Vila do Conde,86
+2018-05-21,Vila do Porto,41
+2018-05-21,Vimioso,41
+2018-05-21,Vinhais,57
+2018-05-21,Viseu,86
+2018-05-21,Vizela,69
+2018-05-21,Vouzela,53
+2018-05-21,Águeda,71
+2018-05-21,Évora,83
+2018-05-21,Ílhavo,81
+2018-05-21,Óbidos,49
+2018-05-22,Abrantes,75
+2018-05-22,Aguiar da Beira,43
+2018-05-22,Alandroal,51
+2018-05-22,Albergaria-a-Velha,63
+2018-05-22,Albufeira,80
+2018-05-22,Alcanena,61
+2018-05-22,Alcobaça,73
+2018-05-22,Alcochete,62
+2018-05-22,Alcoutim,29
+2018-05-22,Alcácer do Sal,59
+2018-05-22,Alenquer,70
+2018-05-22,Alfândega da Fé,43
+2018-05-22,Alijó,58
+2018-05-22,Aljezur,44
+2018-05-22,Aljustrel,51
+2018-05-22,Almada,132
+2018-05-22,Almeida,46
+2018-05-22,Almeirim,66
+2018-05-22,Almodôvar,54
+2018-05-22,Alpiarça,51
+2018-05-22,Alter do Chão,39
+2018-05-22,Alvaiázere,48
+2018-05-22,Alvito,39
+2018-05-22,Amadora,124
+2018-05-22,Amarante,88
+2018-05-22,Amares,62
+2018-05-22,Anadia,75
+2018-05-22,Angra do Heroísmo,75
+2018-05-22,Ansião,58
+2018-05-22,Arcos de Valdevez,66
+2018-05-22,Arganil,60
+2018-05-22,Armamar,41
+2018-05-22,Arouca,68
+2018-05-22,Arraiolos,45
+2018-05-22,Arronches,35
+2018-05-22,Arruda dos Vinhos,91
+2018-05-22,Aveiro,89
+2018-05-22,Avis,39
+2018-05-22,Azambuja,63
+2018-05-22,Baião,67
+2018-05-22,Barcelos,105
+2018-05-22,Barrancos,31
+2018-05-22,Barreiro,91
+2018-05-22,Batalha,60
+2018-05-22,Beja,79
+2018-05-22,Belmonte,50
+2018-05-22,Benavente,71
+2018-05-22,Bombarral,58
+2018-05-22,Borba,50
+2018-05-22,Boticas,52
+2018-05-22,Braga,131
+2018-05-22,Bragança,69
+2018-05-22,Cabeceiras de Basto,56
+2018-05-22,Cadaval,92
+2018-05-22,Caldas da Rainha,84
+2018-05-22,Calheta [R.A.A.],36
+2018-05-22,Calheta [R.A.M.],57
+2018-05-22,Caminha,66
+2018-05-22,Campo Maior,54
+2018-05-22,Cantanhede,107
+2018-05-22,Carrazeda de Ansiães,47
+2018-05-22,Carregal do Sal,49
+2018-05-22,Cartaxo,70
+2018-05-22,Cascais,154
+2018-05-22,Castanheira de Pêra,35
+2018-05-22,Castelo Branco,87
+2018-05-22,Castelo de Paiva,67
+2018-05-22,Castelo de Vide,43
+2018-05-22,Castro Daire,68
+2018-05-22,Castro Marim,45
+2018-05-22,Castro Verde,49
+2018-05-22,Celorico da Beira,46
+2018-05-22,Celorico de Basto,64
+2018-05-22,Chamusca,53
+2018-05-22,Chaves,70
+2018-05-22,Cinfães,65
+2018-05-22,Coimbra,101
+2018-05-22,Condeixa-a-Nova,62
+2018-05-22,Constância,41
+2018-05-22,Coruche,56
+2018-05-22,Corvo,24
+2018-05-22,Covilhã,78
+2018-05-22,Crato,49
+2018-05-22,Cuba,41
+2018-05-22,Câmara de Lobos,69
+2018-05-22,Elvas,64
+2018-05-22,Entroncamento,68
+2018-05-22,Espinho,73
+2018-05-22,Esposende,74
+2018-05-22,Estarreja,70
+2018-05-22,Estremoz,67
+2018-05-22,Fafe,70
+2018-05-22,Faro,89
+2018-05-22,Felgueiras,82
+2018-05-22,Ferreira do Alentejo,44
+2018-05-22,Ferreira do Zêzere,51
+2018-05-22,Figueira da Foz,81
+2018-05-22,Figueira de Castelo Rodrigo,48
+2018-05-22,Figueiró dos Vinhos,48
+2018-05-22,Fornos de Algodres,44
+2018-05-22,Freixo de Espada à Cinta,36
+2018-05-22,Fronteira,42
+2018-05-22,Funchal,89
+2018-05-22,Fundão,66
+2018-05-22,Gavião,40
+2018-05-22,Golegã,43
+2018-05-22,Gondomar,104
+2018-05-22,Gouveia,49
+2018-05-22,Grândola,58
+2018-05-22,Guarda,90
+2018-05-22,Guimarães,107
+2018-05-22,Góis,40
+2018-05-22,Horta,52
+2018-05-22,Idanha-a-Nova,59
+2018-05-22,Lagoa,68
+2018-05-22,Lagoa [R.A.A.],60
+2018-05-22,Lagos,72
+2018-05-22,Lajes das Flores,31
+2018-05-22,Lajes do Pico,46
+2018-05-22,Lamego,69
+2018-05-22,Leiria,101
+2018-05-22,Lisboa,262
+2018-05-22,Loulé,85
+2018-05-22,Loures,134
+2018-05-22,Lourinhã,69
+2018-05-22,Lousada,73
+2018-05-22,Lousã,62
+2018-05-22,Macedo de Cavaleiros,62
+2018-05-22,Machico,64
+2018-05-22,Madalena,42
+2018-05-22,Mafra,88
+2018-05-22,Maia,84
+2018-05-22,Mangualde,63
+2018-05-22,Manteigas,43
+2018-05-22,Marco de Canaveses,79
+2018-05-22,Marinha Grande,72
+2018-05-22,Marvão,57
+2018-05-22,Matosinhos,135
+2018-05-22,Mação,51
+2018-05-22,Mealhada,58
+2018-05-22,Melgaço,55
+2018-05-22,Mesão Frio,43
+2018-05-22,Mira,53
+2018-05-22,Miranda do Corvo,49
+2018-05-22,Miranda do Douro,50
+2018-05-22,Mirandela,65
+2018-05-22,Mogadouro,56
+2018-05-22,Moimenta da Beira,57
+2018-05-22,Moita,88
+2018-05-22,Monchique,53
+2018-05-22,Mondim de Basto,55
+2018-05-22,Monforte,38
+2018-05-22,Montalegre,52
+2018-05-22,Montemor-o-Novo,59
+2018-05-22,Montemor-o-Velho,61
+2018-05-22,Montijo,66
+2018-05-22,Monção,57
+2018-05-22,Mora,37
+2018-05-22,Mortágua,50
+2018-05-22,Moura,66
+2018-05-22,Mourão,32
+2018-05-22,Murtosa,51
+2018-05-22,Murça,43
+2018-05-22,Mértola,47
+2018-05-22,Mêda,50
+2018-05-22,Nazaré,63
+2018-05-22,Nelas,53
+2018-05-22,Nisa,54
+2018-05-22,Nordeste,43
+2018-05-22,Odemira,79
+2018-05-22,Odivelas,143
+2018-05-22,Oeiras,116
+2018-05-22,Oleiros,42
+2018-05-22,Olhão,83
+2018-05-22,Oliveira de Azeméis,85
+2018-05-22,Oliveira de Frades,49
+2018-05-22,Oliveira do Bairro,65
+2018-05-22,Oliveira do Hospital,13
+2018-05-22,Ourique,38
+2018-05-22,Ourém,75
+2018-05-22,Ovar,82
+2018-05-22,Palmela,81
+2018-05-22,Pampilhosa da Serra,37
+2018-05-22,Paredes,84
+2018-05-22,Paredes de Coura,55
+2018-05-22,Paços de Ferreira,99
+2018-05-22,Pedrógão Grande,41
+2018-05-22,Penacova,59
+2018-05-22,Penafiel,95
+2018-05-22,Penalva do Castelo,50
+2018-05-22,Penamacor,47
+2018-05-22,Penedono,37
+2018-05-22,Penela,51
+2018-05-22,Peniche,86
+2018-05-22,Peso da Régua,77
+2018-05-22,Pinhel,53
+2018-05-22,Pombal,76
+2018-05-22,Ponta Delgada,85
+2018-05-22,Ponta do Sol,51
+2018-05-22,Ponte da Barca,70
+2018-05-22,Ponte de Lima,70
+2018-05-22,Ponte de Sor,61
+2018-05-22,Portalegre,67
+2018-05-22,Portel,43
+2018-05-22,Portimão,86
+2018-05-22,Porto,165
+2018-05-22,Porto Moniz,28
+2018-05-22,Porto Santo,46
+2018-05-22,Porto de Mós,78
+2018-05-22,Povoação,53
+2018-05-22,Proença-a-Nova,49
+2018-05-22,Póvoa de Lanhoso,64
+2018-05-22,Póvoa de Varzim,92
+2018-05-22,Redondo,52
+2018-05-22,Reguengos de Monsaraz,54
+2018-05-22,Resende,73
+2018-05-22,Ribeira Brava,46
+2018-05-22,Ribeira Grande,62
+2018-05-22,Ribeira de Pena,43
+2018-05-22,Rio Maior,65
+2018-05-22,Sabrosa,43
+2018-05-22,Sabugal,55
+2018-05-22,Salvaterra de Magos,107
+2018-05-22,Santa Comba Dão,56
+2018-05-22,Santa Cruz,95
+2018-05-22,Santa Cruz da Graciosa,38
+2018-05-22,Santa Cruz das Flores,39
+2018-05-22,Santa Maria da Feira,97
+2018-05-22,Santa Marta de Penaguião,47
+2018-05-22,Santana,46
+2018-05-22,Santarém,84
+2018-05-22,Santiago do Cacém,70
+2018-05-22,Santo Tirso,84
+2018-05-22,Sardoal,37
+2018-05-22,Seia,83
+2018-05-22,Seixal,110
+2018-05-22,Sernancelhe,51
+2018-05-22,Serpa,81
+2018-05-22,Sertã,56
+2018-05-22,Sesimbra,92
+2018-05-22,Setúbal,100
+2018-05-22,Sever do Vouga,54
+2018-05-22,Silves,74
+2018-05-22,Sines,56
+2018-05-22,Sintra,172
+2018-05-22,Sobral de Monte Agraço,50
+2018-05-22,Soure,79
+2018-05-22,Sousel,49
+2018-05-22,Sátão,57
+2018-05-22,São Brás de Alportel,49
+2018-05-22,São João da Madeira,62
+2018-05-22,São João da Pesqueira,48
+2018-05-22,São Pedro do Sul,61
+2018-05-22,São Roque do Pico,32
+2018-05-22,São Vicente,47
+2018-05-22,Tabuaço,43
+2018-05-22,Tarouca,60
+2018-05-22,Tavira,63
+2018-05-22,Terras de Bouro,47
+2018-05-22,Tomar,68
+2018-05-22,Tondela,72
+2018-05-22,Torre de Moncorvo,54
+2018-05-22,Torres Novas,77
+2018-05-22,Torres Vedras,96
+2018-05-22,Trancoso,48
+2018-05-22,Trofa,65
+2018-05-22,Tábua,57
+2018-05-22,Vagos,60
+2018-05-22,Vale de Cambra,61
+2018-05-22,Valença,61
+2018-05-22,Valongo,101
+2018-05-22,Valpaços,69
+2018-05-22,Velas,40
+2018-05-22,Vendas Novas,55
+2018-05-22,Viana do Alentejo,50
+2018-05-22,Viana do Castelo,92
+2018-05-22,Vidigueira,45
+2018-05-22,Vieira do Minho,57
+2018-05-22,Vila Flor,55
+2018-05-22,Vila Franca de Xira,104
+2018-05-22,Vila Franca do Campo,55
+2018-05-22,Vila Nova da Barquinha,44
+2018-05-22,Vila Nova de Cerveira,48
+2018-05-22,Vila Nova de Famalicão,90
+2018-05-22,Vila Nova de Foz Côa,45
+2018-05-22,Vila Nova de Gaia,156
+2018-05-22,Vila Nova de Paiva,49
+2018-05-22,Vila Nova de Poiares,44
+2018-05-22,Vila Pouca de Aguiar,57
+2018-05-22,Vila Real,81
+2018-05-22,Vila Real de Santo António,56
+2018-05-22,Vila Velha de Ródão,37
+2018-05-22,Vila Verde,70
+2018-05-22,Vila Viçosa,67
+2018-05-22,Vila da Praia da Vitória,68
+2018-05-22,Vila de Rei,41
+2018-05-22,Vila do Bispo,48
+2018-05-22,Vila do Conde,86
+2018-05-22,Vila do Porto,41
+2018-05-22,Vimioso,41
+2018-05-22,Vinhais,57
+2018-05-22,Viseu,86
+2018-05-22,Vizela,69
+2018-05-22,Vouzela,53
+2018-05-22,Águeda,71
+2018-05-22,Évora,83
+2018-05-22,Ílhavo,81
+2018-05-22,Óbidos,49
+2018-05-23,Abrantes,75
+2018-05-23,Aguiar da Beira,43
+2018-05-23,Alandroal,51
+2018-05-23,Albergaria-a-Velha,63
+2018-05-23,Albufeira,80
+2018-05-23,Alcanena,61
+2018-05-23,Alcobaça,73
+2018-05-23,Alcochete,62
+2018-05-23,Alcoutim,29
+2018-05-23,Alcácer do Sal,59
+2018-05-23,Alenquer,70
+2018-05-23,Alfândega da Fé,43
+2018-05-23,Alijó,58
+2018-05-23,Aljezur,44
+2018-05-23,Aljustrel,51
+2018-05-23,Almada,132
+2018-05-23,Almeida,46
+2018-05-23,Almeirim,66
+2018-05-23,Almodôvar,54
+2018-05-23,Alpiarça,51
+2018-05-23,Alter do Chão,39
+2018-05-23,Alvaiázere,48
+2018-05-23,Alvito,39
+2018-05-23,Amadora,124
+2018-05-23,Amarante,88
+2018-05-23,Amares,62
+2018-05-23,Anadia,75
+2018-05-23,Angra do Heroísmo,75
+2018-05-23,Ansião,58
+2018-05-23,Arcos de Valdevez,66
+2018-05-23,Arganil,60
+2018-05-23,Armamar,41
+2018-05-23,Arouca,68
+2018-05-23,Arraiolos,45
+2018-05-23,Arronches,35
+2018-05-23,Arruda dos Vinhos,91
+2018-05-23,Aveiro,89
+2018-05-23,Avis,39
+2018-05-23,Azambuja,63
+2018-05-23,Baião,67
+2018-05-23,Barcelos,105
+2018-05-23,Barrancos,31
+2018-05-23,Barreiro,91
+2018-05-23,Batalha,60
+2018-05-23,Beja,79
+2018-05-23,Belmonte,50
+2018-05-23,Benavente,71
+2018-05-23,Bombarral,58
+2018-05-23,Borba,50
+2018-05-23,Boticas,52
+2018-05-23,Braga,131
+2018-05-23,Bragança,69
+2018-05-23,Cabeceiras de Basto,56
+2018-05-23,Cadaval,92
+2018-05-23,Caldas da Rainha,84
+2018-05-23,Calheta [R.A.A.],36
+2018-05-23,Calheta [R.A.M.],57
+2018-05-23,Caminha,66
+2018-05-23,Campo Maior,54
+2018-05-23,Cantanhede,107
+2018-05-23,Carrazeda de Ansiães,47
+2018-05-23,Carregal do Sal,49
+2018-05-23,Cartaxo,70
+2018-05-23,Cascais,154
+2018-05-23,Castanheira de Pêra,35
+2018-05-23,Castelo Branco,87
+2018-05-23,Castelo de Paiva,67
+2018-05-23,Castelo de Vide,43
+2018-05-23,Castro Daire,68
+2018-05-23,Castro Marim,45
+2018-05-23,Castro Verde,49
+2018-05-23,Celorico da Beira,46
+2018-05-23,Celorico de Basto,64
+2018-05-23,Chamusca,53
+2018-05-23,Chaves,70
+2018-05-23,Cinfães,65
+2018-05-23,Coimbra,101
+2018-05-23,Condeixa-a-Nova,62
+2018-05-23,Constância,41
+2018-05-23,Coruche,56
+2018-05-23,Corvo,24
+2018-05-23,Covilhã,78
+2018-05-23,Crato,49
+2018-05-23,Cuba,41
+2018-05-23,Câmara de Lobos,69
+2018-05-23,Elvas,64
+2018-05-23,Entroncamento,68
+2018-05-23,Espinho,73
+2018-05-23,Esposende,74
+2018-05-23,Estarreja,70
+2018-05-23,Estremoz,67
+2018-05-23,Fafe,70
+2018-05-23,Faro,89
+2018-05-23,Felgueiras,82
+2018-05-23,Ferreira do Alentejo,44
+2018-05-23,Ferreira do Zêzere,51
+2018-05-23,Figueira da Foz,81
+2018-05-23,Figueira de Castelo Rodrigo,48
+2018-05-23,Figueiró dos Vinhos,48
+2018-05-23,Fornos de Algodres,44
+2018-05-23,Freixo de Espada à Cinta,36
+2018-05-23,Fronteira,42
+2018-05-23,Funchal,89
+2018-05-23,Fundão,66
+2018-05-23,Gavião,40
+2018-05-23,Golegã,43
+2018-05-23,Gondomar,104
+2018-05-23,Gouveia,49
+2018-05-23,Grândola,58
+2018-05-23,Guarda,90
+2018-05-23,Guimarães,107
+2018-05-23,Góis,40
+2018-05-23,Horta,52
+2018-05-23,Idanha-a-Nova,59
+2018-05-23,Lagoa,68
+2018-05-23,Lagoa [R.A.A.],60
+2018-05-23,Lagos,72
+2018-05-23,Lajes das Flores,31
+2018-05-23,Lajes do Pico,46
+2018-05-23,Lamego,69
+2018-05-23,Leiria,101
+2018-05-23,Lisboa,262
+2018-05-23,Loulé,85
+2018-05-23,Loures,134
+2018-05-23,Lourinhã,69
+2018-05-23,Lousada,73
+2018-05-23,Lousã,62
+2018-05-23,Macedo de Cavaleiros,62
+2018-05-23,Machico,64
+2018-05-23,Madalena,42
+2018-05-23,Mafra,88
+2018-05-23,Maia,84
+2018-05-23,Mangualde,63
+2018-05-23,Manteigas,43
+2018-05-23,Marco de Canaveses,79
+2018-05-23,Marinha Grande,72
+2018-05-23,Marvão,57
+2018-05-23,Matosinhos,135
+2018-05-23,Mação,51
+2018-05-23,Mealhada,58
+2018-05-23,Melgaço,55
+2018-05-23,Mesão Frio,43
+2018-05-23,Mira,53
+2018-05-23,Miranda do Corvo,49
+2018-05-23,Miranda do Douro,50
+2018-05-23,Mirandela,65
+2018-05-23,Mogadouro,56
+2018-05-23,Moimenta da Beira,57
+2018-05-23,Moita,88
+2018-05-23,Monchique,53
+2018-05-23,Mondim de Basto,55
+2018-05-23,Monforte,38
+2018-05-23,Montalegre,52
+2018-05-23,Montemor-o-Novo,59
+2018-05-23,Montemor-o-Velho,61
+2018-05-23,Montijo,66
+2018-05-23,Monção,57
+2018-05-23,Mora,37
+2018-05-23,Mortágua,50
+2018-05-23,Moura,66
+2018-05-23,Mourão,32
+2018-05-23,Murtosa,51
+2018-05-23,Murça,43
+2018-05-23,Mértola,47
+2018-05-23,Mêda,50
+2018-05-23,Nazaré,63
+2018-05-23,Nelas,53
+2018-05-23,Nisa,54
+2018-05-23,Nordeste,43
+2018-05-23,Odemira,79
+2018-05-23,Odivelas,143
+2018-05-23,Oeiras,116
+2018-05-23,Oleiros,42
+2018-05-23,Olhão,83
+2018-05-23,Oliveira de Azeméis,85
+2018-05-23,Oliveira de Frades,49
+2018-05-23,Oliveira do Bairro,65
+2018-05-23,Oliveira do Hospital,13
+2018-05-23,Ourique,38
+2018-05-23,Ourém,75
+2018-05-23,Ovar,82
+2018-05-23,Palmela,81
+2018-05-23,Pampilhosa da Serra,37
+2018-05-23,Paredes,84
+2018-05-23,Paredes de Coura,55
+2018-05-23,Paços de Ferreira,99
+2018-05-23,Pedrógão Grande,41
+2018-05-23,Penacova,59
+2018-05-23,Penafiel,95
+2018-05-23,Penalva do Castelo,50
+2018-05-23,Penamacor,47
+2018-05-23,Penedono,37
+2018-05-23,Penela,51
+2018-05-23,Peniche,86
+2018-05-23,Peso da Régua,77
+2018-05-23,Pinhel,53
+2018-05-23,Pombal,76
+2018-05-23,Ponta Delgada,85
+2018-05-23,Ponta do Sol,51
+2018-05-23,Ponte da Barca,70
+2018-05-23,Ponte de Lima,70
+2018-05-23,Ponte de Sor,61
+2018-05-23,Portalegre,67
+2018-05-23,Portel,43
+2018-05-23,Portimão,86
+2018-05-23,Porto,165
+2018-05-23,Porto Moniz,28
+2018-05-23,Porto Santo,46
+2018-05-23,Porto de Mós,78
+2018-05-23,Povoação,53
+2018-05-23,Proença-a-Nova,49
+2018-05-23,Póvoa de Lanhoso,64
+2018-05-23,Póvoa de Varzim,92
+2018-05-23,Redondo,52
+2018-05-23,Reguengos de Monsaraz,54
+2018-05-23,Resende,73
+2018-05-23,Ribeira Brava,46
+2018-05-23,Ribeira Grande,62
+2018-05-23,Ribeira de Pena,43
+2018-05-23,Rio Maior,65
+2018-05-23,Sabrosa,43
+2018-05-23,Sabugal,55
+2018-05-23,Salvaterra de Magos,107
+2018-05-23,Santa Comba Dão,56
+2018-05-23,Santa Cruz,95
+2018-05-23,Santa Cruz da Graciosa,38
+2018-05-23,Santa Cruz das Flores,39
+2018-05-23,Santa Maria da Feira,97
+2018-05-23,Santa Marta de Penaguião,47
+2018-05-23,Santana,46
+2018-05-23,Santarém,84
+2018-05-23,Santiago do Cacém,70
+2018-05-23,Santo Tirso,84
+2018-05-23,Sardoal,37
+2018-05-23,Seia,83
+2018-05-23,Seixal,110
+2018-05-23,Sernancelhe,51
+2018-05-23,Serpa,81
+2018-05-23,Sertã,56
+2018-05-23,Sesimbra,92
+2018-05-23,Setúbal,100
+2018-05-23,Sever do Vouga,54
+2018-05-23,Silves,74
+2018-05-23,Sines,56
+2018-05-23,Sintra,172
+2018-05-23,Sobral de Monte Agraço,50
+2018-05-23,Soure,79
+2018-05-23,Sousel,49
+2018-05-23,Sátão,57
+2018-05-23,São Brás de Alportel,49
+2018-05-23,São João da Madeira,62
+2018-05-23,São João da Pesqueira,48
+2018-05-23,São Pedro do Sul,61
+2018-05-23,São Roque do Pico,32
+2018-05-23,São Vicente,47
+2018-05-23,Tabuaço,43
+2018-05-23,Tarouca,60
+2018-05-23,Tavira,63
+2018-05-23,Terras de Bouro,47
+2018-05-23,Tomar,68
+2018-05-23,Tondela,72
+2018-05-23,Torre de Moncorvo,54
+2018-05-23,Torres Novas,77
+2018-05-23,Torres Vedras,96
+2018-05-23,Trancoso,48
+2018-05-23,Trofa,65
+2018-05-23,Tábua,57
+2018-05-23,Vagos,60
+2018-05-23,Vale de Cambra,61
+2018-05-23,Valença,61
+2018-05-23,Valongo,101
+2018-05-23,Valpaços,69
+2018-05-23,Velas,40
+2018-05-23,Vendas Novas,55
+2018-05-23,Viana do Alentejo,50
+2018-05-23,Viana do Castelo,92
+2018-05-23,Vidigueira,45
+2018-05-23,Vieira do Minho,57
+2018-05-23,Vila Flor,55
+2018-05-23,Vila Franca de Xira,104
+2018-05-23,Vila Franca do Campo,55
+2018-05-23,Vila Nova da Barquinha,44
+2018-05-23,Vila Nova de Cerveira,48
+2018-05-23,Vila Nova de Famalicão,90
+2018-05-23,Vila Nova de Foz Côa,45
+2018-05-23,Vila Nova de Gaia,156
+2018-05-23,Vila Nova de Paiva,49
+2018-05-23,Vila Nova de Poiares,44
+2018-05-23,Vila Pouca de Aguiar,57
+2018-05-23,Vila Real,81
+2018-05-23,Vila Real de Santo António,56
+2018-05-23,Vila Velha de Ródão,37
+2018-05-23,Vila Verde,70
+2018-05-23,Vila Viçosa,67
+2018-05-23,Vila da Praia da Vitória,68
+2018-05-23,Vila de Rei,41
+2018-05-23,Vila do Bispo,48
+2018-05-23,Vila do Conde,86
+2018-05-23,Vila do Porto,41
+2018-05-23,Vimioso,41
+2018-05-23,Vinhais,57
+2018-05-23,Viseu,86
+2018-05-23,Vizela,69
+2018-05-23,Vouzela,53
+2018-05-23,Águeda,71
+2018-05-23,Évora,83
+2018-05-23,Ílhavo,81
+2018-05-23,Óbidos,49
