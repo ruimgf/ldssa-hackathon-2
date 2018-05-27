@@ -25,3 +25,12 @@ def get_quantil_pred(row,df_quantil_Sun,df_quantil_Mon,df_quantil_Tue,df_quantil
 			return ceil(df_quantil_Tue.loc[(city,day_of_week)]/15)
 		elif day_of_week == 'Wednesday':
 			return ceil(df_quantil_Wen.loc[(city,day_of_week)]/15)
+
+def get_hollidays():
+    return pd.read_csv('data/cities_with_student_holidays.txt', header=None, delimiter="'")[1].tolist()
+
+def get_test_holliday_df(df_):
+    df_new = df_.copy()
+    hollidays = get_hollidays()
+    df_new["isHolliday"] = df_new["City"].isin(hollidays).astype(int)
+    return df_new
